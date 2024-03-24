@@ -9,11 +9,11 @@ In addition, the Department of Psychology at the University of Otago in New Zeal
 Moreover, simple performance analysis is just one portion of how DRM can be used to measure memorization skills.  Applying the data from these studies to increase performance is another step in research for the topic of DRM.  Melissa D. McConnell and R. Reed Hunt (2007) from the University of North Carolina and the University of Texas, respectively, were also curious about performance feedback within DRM studies.  Simply put, the data suggests that the feedback group performed better on subsequent trials than the group that did not receive feedback.  This is an increase in error correction and overall correct recall rates.
 Finally, this empirical research tested the external validity of DRM-styled experiments.  Are DRM errors directly indicative of how good one’s memory is?  Ost, Blank, Davies, Jones, Lambert, and Salmon (2013) would argue against this common assumption.  Participants were shown a video and then a post-event video recapping the original video, but it was complete nonsense and not accurate regarding the original video.  From the participant’s perspective, a seemingly meaningless DRM test was conducted.  The results display a concept that the researchers predicted - false recognition is not necessarily derived from false memories.  The participants were previously shown a video that illustrated various false memories of a video.  With a predisposition to incorrect or mismatching memories in their minds, participants were then more likely to falsely recall.
 ## Method
-## Participants
+### Participants
 Participants (N = 42) consisted of both psychology (n = 27) and non-psychology majors (n = 15). The sex of our participants was mostly female (54.8%), with males representing 16.7% and unidentified sex’s representing 28.6% of all participants.
-## Materials & Design
+### Materials & Design
 Participants were shown a “study list” of words all related to food then asked to solve 3 math problems as a distraction. Moreover, they were asked if subsequent words were in the original list. Some words were related to food but were not on the list, while other food-related words were. Also, some words were not related to food. 
-## Procedure
+### Procedure
 The order of the word relatedness was randomized, on top of that the math problems made it harder to go straight from the study list to the word relatedness questions.  Data was then organized by participant, then the mean reaction times for related and unrelated words were calculated, as was the number of incorrectly and correctly identified words. Then this data was summarized in a table in Excel, which was eventually analyzed in SPSS.
 ## Results
 <img width="376" alt="image" src="https://github.com/seanh824/FalseMemorySurvey/assets/140123586/1e22d3da-8bdd-4f26-b235-fc16bac0e5e1">
